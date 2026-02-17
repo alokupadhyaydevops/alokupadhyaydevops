@@ -1,3 +1,15 @@
+<h1 align="center">
+  Hi 👋, I'm Alok
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;CI%2FCD+Pipeline+Builder;Docker+%7C+Kubernetes+%7C+AWS;Automating+Everything" />
+  </a>
+</p>
+
+
+
 <div align="center">
   
 # 👋 Hello, I'm Alok Upadhyay
@@ -9,6 +21,18 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://alokupadhyay.dev)
 
 </div>
+
+---
+
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
+</p>
+
 
 ---
 
@@ -96,6 +120,15 @@ Framework for managing applications across AWS, Azure, and GCP. Provides unified
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+</p>
+
+
+---
 ## 📫 Let's Connect
 
 I'm always interested in discussing DevOps practices, cloud architecture, and potential collaboration opportunities.
