@@ -1,18 +1,10 @@
-<h1 align="center">
-  Hi 👋, I'm Alok
-</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;CI%2FCD+Pipeline+Builder;Docker+%7C+Kubernetes+%7C+AWS;Automating+Everything" />
-  </a>
-</p>
-
-
-
 <div align="center">
   
 # 👋 Hello, I'm Alok Upadhyay
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;CI%2FCD+Pipeline+Builder;Docker+%7C+Kubernetes+%7C+AWS;Automating+Everything" />
+  </a>
 
 ### DevOps Engineer | Cloud Infrastructure Specialist | CI/CD Architect
 
