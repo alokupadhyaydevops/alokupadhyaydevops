@@ -109,16 +109,19 @@ I'm always interested in discussing DevOps practices, cloud architecture, and po
 
 <div align="center">
 
-### 💡 "Automating today for a better tomorrow"
+## 🐍 Contribution Snake
 
-![Profile Views](https://komarev.com/ghpvc/?username=alokupadhyaydevops&color=blueviolet&style=flat-square)
-
-![Snake Animation](https://raw.githubusercontent.com/YOUR_USERNAME/snake-animation/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/alokupadhyaydevops/github-snake-animation/blob/output/github-contribution-grid-snake-dark.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/snake-animation/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/snake-animation/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/snake-animation/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+### 💡 "Automating today for a better tomorrow"
+
+![Profile Views](https://komarev.com/ghpvc/?username=alokupadhyaydevops&color=blueviolet&style=flat-square)
 
 </div>
