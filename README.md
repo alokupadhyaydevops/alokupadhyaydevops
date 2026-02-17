@@ -4,8 +4,8 @@
 
 ### DevOps Engineer | Cloud Infrastructure Specialist | CI/CD Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/alokupadhyay)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:alok@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/alokupadhyaydevops)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:alokupadhyay039@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://alokupadhyay.dev)
 
 </div>
@@ -100,10 +100,10 @@ Framework for managing applications across AWS, Azure, and GCP. Provides unified
 
 I'm always interested in discussing DevOps practices, cloud architecture, and potential collaboration opportunities.
 
-- 💼 **LinkedIn:** [linkedin.com/in/alokupadhyay](https://linkedin.com/in/alokupadhyay)
-- 📧 **Email:** alok@example.com
+- 💼 **LinkedIn:** [linkedin.com/in/alokupadhyay](https://linkedin.com/in/alokupadhyaydevops)
+- 📧 **Email:** alokupadhyay039@gmail.com.com
 - 🌐 **Portfolio:** [alokupadhyay.dev](https://alokupadhyay.dev)
-- 🐦 **Twitter:** [@alokupadhyay](https://twitter.com/alokupadhyay)
+- 🐦 **Twitter:** [@alokupadhyay](https://twitter.com/alokupadhyaydevops)
 
 ---
 
