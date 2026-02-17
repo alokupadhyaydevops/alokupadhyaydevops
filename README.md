@@ -243,7 +243,7 @@ I'm passionate about discussing DevOps practices, cloud architecture, and helpin
 
 ## 🐍 Contribution Snake Animation
 
-![Snake animation](https://raw.githubusercontent.com/alokupadhyaydevops/alokupadhyaydevops/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/alokupadhyaydevops/snake-animation/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
