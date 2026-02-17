@@ -101,7 +101,7 @@ Framework for managing applications across AWS, Azure, and GCP. Provides unified
 I'm always interested in discussing DevOps practices, cloud architecture, and potential collaboration opportunities.
 
 - 💼 **LinkedIn:** [linkedin.com/in/alokupadhyay](https://linkedin.com/in/alokupadhyaydevops)
-- 📧 **Email:** alokupadhyay039@gmail.com.com
+- 📧 **Email:** alokupadhyay039@gmail.com
 - 🌐 **Portfolio:** [alokupadhyay.dev](https://alokupadhyay.dev)
 - 🐦 **Twitter:** [@alokupadhyay](https://twitter.com/alokupadhyaydevops)
 
