@@ -113,4 +113,12 @@ I'm always interested in discussing DevOps practices, cloud architecture, and po
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alokupadhyaydevops&color=blueviolet&style=flat-square)
 
+![Snake Animation](https://raw.githubusercontent.com/YOUR_USERNAME/snake-animation/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/snake-animation/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/snake-animation/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/snake-animation/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
