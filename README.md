@@ -175,11 +175,11 @@ Integrated security pipeline automating vulnerability scanning, compliance check
 
 | Metric | Achievement |
 |--------|-------------|
-| 🚀 **Deployment Frequency** | Increased from weekly to 50+ deployments/day |
+| 🚀 **Deployment Frequency** | Increased from weekly to 50+ deployments/day across multiple microservices |
 | ⚡ **Infrastructure Provisioning** | Reduced from 3 days to 30 minutes (98% faster) |
-| 💰 **Cost Optimization** | $600K+ annual savings across cloud infrastructure |
+| 💰 **Cost Optimization** | Achieved 40-60% cost reduction ($600K+ annual savings) |
 | ✅ **Deployment Success Rate** | 99.9% with automated rollback capabilities |
-| 🛡️ **Security Vulnerabilities** | 90% reduction through automated DevSecOps |
+| 🛡️ **Security Vulnerabilities** | 90% reduction through automated DevSecOps pipelines |
 | 📉 **Mean Time To Resolution** | Reduced from 45 minutes to 8 minutes (82% improvement) |
 | ☁️ **Zero-Downtime Migrations** | 100+ microservices migrated across cloud providers |
 | 🎯 **System Availability** | Maintained 99.99% uptime SLA for critical services |
@@ -197,13 +197,12 @@ Integrated security pipeline automating vulnerability scanning, compliance check
 
 ### 🎤 Speaking & Mentoring
 - **Community Speaker:** Actively participating in local DevOps meetups and tech talks
-- **Technical Mentor:** Passionate about helping junior engineers transition into DevOps roles
-- **Open Source Contributor:** Contributing to CNCF projects and DevOps community tools
+- **Technical Mentor:** Mentoring engineers on DevOps best practices and cloud architecture
+- **Open Source:** Contributing to CNCF projects and infrastructure automation tools
 
 ### 🌟 Recognition & Community
 - ⭐ Active contributor to DevOps and cloud infrastructure communities
-- 🏅 Building expertise through continuous learning and real-world implementations
-- 💬 Sharing knowledge and insights on DevOps practices across social platforms
+- 💬 Sharing practical insights and lessons learned from real-world implementations
 
 ---
 
@@ -228,7 +227,7 @@ I'm passionate about discussing DevOps practices, cloud architecture, and helpin
 ### 💼 Professional Channels
 - 💼 **LinkedIn:** [linkedin.com/in/alokupadhyaydevops](https://linkedin.com/in/alokupadhyaydevops) - Let's connect professionally
 - 📧 **Email:** alokupadhyay039@gmail.com - For consulting inquiries and collaborations
-- 🌐 **Portfolio:** [alokupadhyay.dev](https://alokupadhyay.dev) - Detailed case studies and technical blogs
+- 🌐 **Portfolio:** [alokupadhyay.dev](https://alokupadhyay.dev) - Professional portfolio and technical projects
 - 🐦 **Twitter:** [@alokupadhyaydevops](https://twitter.com/alokupadhyaydevops) - DevOps insights and industry trends
 - 📝 **Medium:** [@alokupadhyay](https://medium.com/@alokupadhyaydevops) - In-depth technical articles
 
