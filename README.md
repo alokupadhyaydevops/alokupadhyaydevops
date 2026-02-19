@@ -170,11 +170,29 @@ Created monitoring solution using CloudWatch and Grafana for tracking AWS resour
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokupadhyaydevops&show_icons=true&theme=radical&count_private=true)
+### 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alokupadhyaydevops&layout=compact&theme=radical)
+<a href="https://github.com/alokupadhyaydevops">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alokupadhyaydevops&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokupadhyaydevops&theme=radical)
+### 🔥 Contribution Streak
+
+<a href="https://github.com/alokupadhyaydevops">
+  <img src="https://streak-stats.demolab.com/?user=alokupadhyaydevops&theme=radical&hide_border=false"/>
+</a>
+
+### 💻 Most Used Languages
+
+<a href="https://github.com/alokupadhyaydevops">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokupadhyaydevops&layout=compact&theme=radical&langs_count=6&cache_seconds=86400"/>
+</a>
+
+### 📊 Profile Summary
+
+<a href="https://github.com/alokupadhyaydevops">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alokupadhyaydevops&theme=radical"/>
+</a>
 
 </div>
 
