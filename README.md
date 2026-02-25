@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/alokupadhyaydevops)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:alokupadhyay039@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://alokupadhyay.dev)
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1YDLhi-uA9k8VNvXmTu5-4MijP5kI4dFX/view?usp=sharing)
 
 </div>
 
@@ -188,6 +189,7 @@ I'm always eager to learn from experienced professionals, collaborate on interes
 - 💼 **LinkedIn:** [linkedin.com/in/alokupadhyaydevops](https://linkedin.com/in/alokupadhyaydevops) - Let's connect and grow together
 - 📧 **Email:** alokupadhyay039@gmail.com - Open to opportunities and collaborations
 - 🌐 **Portfolio:** [alokupadhyay.dev](https://alokupadhyay.dev) - Check out my projects and learning journey
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1YDLhi-uA9k8VNvXmTu5-4MijP5kI4dFX/view?usp=sharing) - Download or view my latest resume
 - 🐦 **Twitter:** [@alokupadhyaydevops](https://twitter.com/alokupadhyaydevops) - Following DevOps trends and sharing learnings
 
 ### 🎯 I'm Looking For
